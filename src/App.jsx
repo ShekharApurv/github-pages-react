@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Hello from gh-pages!
+        Hello from GitHub Actions Deployment!
       </p>
     </>
   )
